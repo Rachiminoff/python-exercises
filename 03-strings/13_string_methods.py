@@ -14,7 +14,9 @@ Rules:
 
 
 def main():
-    pass
+    messyStr = "heLLo, WorLD!"
+    
+    print(messyStr.lower().title())
 
 
 if __name__ == "__main__":

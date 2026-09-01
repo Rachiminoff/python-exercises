@@ -14,7 +14,12 @@ Rules:
 
 
 def main():
-    pass
+    print()
+    print("Hello, my name is Connor. I'm the android sent by Cyberlife")
+    print("My predecessor was unfortunately destroyed.")
+    print("But Cyberlife transferred its memory and sent me to replace it.")
+    print("This incident should not affect the investigation.")
+    print()
 
 
 if __name__ == "__main__":

@@ -14,7 +14,13 @@ Rules:
 
 
 def main():
-    pass
+     name = "Call me by No Name"
+     age = "09"
+     favoriteNum = "18"
+     
+     print(f"My name is {name}, Age is {age}, and my favorite number is {favoriteNum}. FR.")
+     print()
+     
 
 
 if __name__ == "__main__":

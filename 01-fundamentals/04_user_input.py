@@ -14,7 +14,10 @@ Rules:
 
 
 def main():
-    pass
+    name = input("Please write your name: ")
+    age = int(input("Please write your age: "))
+    print(f"Your name is {name} and your age is {age}.")
+    
 
 
 if __name__ == "__main__":

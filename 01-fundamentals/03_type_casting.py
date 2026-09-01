@@ -14,7 +14,18 @@ Rules:
 
 
 def main():
-    pass
+    numberStr = "19"
+    anotherStr = "8.43"
+    
+    
+    integer = int(numberStr)
+    floatVal = float(anotherStr)
+    
+    print(integer)
+    print(floatVal)
+    
+    result = integer + floatVal
+    print(result)
 
 
 if __name__ == "__main__":
