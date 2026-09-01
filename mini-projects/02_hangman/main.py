@@ -9,6 +9,8 @@ Build one program that meets all of these requirements:
     - Limit the player to 6 wrong guesses before they lose.
     - Print a win or lose message at the end, revealing the word either way.
 
+Stuck? See HINTS.md in this folder.
+
 Rules:
     - No AI — no Copilot / ChatGPT / autocomplete you didn't type yourself.
     - Google is fine for syntax, docs, and built-in functions.

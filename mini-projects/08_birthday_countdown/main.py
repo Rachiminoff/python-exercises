@@ -9,6 +9,8 @@ Build one program that meets all of these requirements:
     - Handle the edge case where today IS their birthday.
     - Print a message that changes tone as it gets closer (e.g. 'so soon!' under 7 days).
 
+Stuck? See HINTS.md in this folder.
+
 Rules:
     - No AI — no Copilot / ChatGPT / autocomplete you didn't type yourself.
     - Google is fine for syntax, docs, and built-in functions.

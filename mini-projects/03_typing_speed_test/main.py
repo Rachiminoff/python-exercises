@@ -9,6 +9,8 @@ Build one program that meets all of these requirements:
     - Calculate and print words-per-minute and character accuracy (% typed correctly).
     - Let them retry and keep track of their best WPM for the session.
 
+Stuck? See HINTS.md in this folder.
+
 Rules:
     - No AI — no Copilot / ChatGPT / autocomplete you didn't type yourself.
     - Google is fine for syntax, docs, and built-in functions.

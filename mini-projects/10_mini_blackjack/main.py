@@ -9,6 +9,8 @@ Build one program that meets all of these requirements:
     - Implement dealer logic: dealer must hit until their hand is 17 or higher.
     - Determine and print the winner, correctly handling busts and blackjacks.
 
+Stuck? See HINTS.md in this folder.
+
 Rules:
     - No AI — no Copilot / ChatGPT / autocomplete you didn't type yourself.
     - Google is fine for syntax, docs, and built-in functions.

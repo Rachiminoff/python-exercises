@@ -8,6 +8,8 @@ Examples:
     Input:  chars = ["h", "e", "l", "l", "o"]
     Output: ["o", "l", "l", "e", "h"]
 
+Stuck? See HINTS.md in this folder.
+
 Rules:
     - No AI — no Copilot / ChatGPT / autocomplete you didn't type yourself.
     - Google is fine for syntax, docs, and built-in functions.

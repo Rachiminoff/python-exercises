@@ -10,6 +10,8 @@ Examples:
     Input:  nums = [-1, 0, 3, 5, 9, 12], target = 2
     Output: -1
 
+Stuck? See HINTS.md in this folder.
+
 Rules:
     - No AI — no Copilot / ChatGPT / autocomplete you didn't type yourself.
     - Google is fine for syntax, docs, and built-in functions.

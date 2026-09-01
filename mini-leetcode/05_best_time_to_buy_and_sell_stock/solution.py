@@ -10,6 +10,8 @@ Examples:
     Input:  prices = [7, 6, 4, 3, 1]
     Output: 0  (prices only fall)
 
+Stuck? See HINTS.md in this folder.
+
 Rules:
     - No AI — no Copilot / ChatGPT / autocomplete you didn't type yourself.
     - Google is fine for syntax, docs, and built-in functions.

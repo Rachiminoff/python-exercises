@@ -9,6 +9,8 @@ Build one program that meets all of these requirements:
     - Let them view all past entries, newest first.
     - Bonus: let them search past entries by keyword.
 
+Stuck? See HINTS.md in this folder.
+
 Rules:
     - No AI — no Copilot / ChatGPT / autocomplete you didn't type yourself.
     - Google is fine for syntax, docs, and built-in functions.

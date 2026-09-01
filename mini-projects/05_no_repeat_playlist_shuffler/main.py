@@ -9,6 +9,8 @@ Build one program that meets all of these requirements:
     - Print songs one at a time as 'Now playing', advancing with input().
     - Bonus: let the user skip a song without it counting as played.
 
+Stuck? See HINTS.md in this folder.
+
 Rules:
     - No AI — no Copilot / ChatGPT / autocomplete you didn't type yourself.
     - Google is fine for syntax, docs, and built-in functions.

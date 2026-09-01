@@ -8,6 +8,8 @@ Examples:
     Input:  nums = [0, 1, 0, 3, 12]
     Output: [1, 3, 12, 0, 0]
 
+Stuck? See HINTS.md in this folder.
+
 Rules:
     - No AI — no Copilot / ChatGPT / autocomplete you didn't type yourself.
     - Google is fine for syntax, docs, and built-in functions.

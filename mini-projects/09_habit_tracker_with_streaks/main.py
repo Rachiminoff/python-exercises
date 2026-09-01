@@ -9,6 +9,8 @@ Build one program that meets all of these requirements:
     - Calculate their current streak (consecutive days completed).
     - Print their longest streak ever alongside their current streak.
 
+Stuck? See HINTS.md in this folder.
+
 Rules:
     - No AI — no Copilot / ChatGPT / autocomplete you didn't type yourself.
     - Google is fine for syntax, docs, and built-in functions.

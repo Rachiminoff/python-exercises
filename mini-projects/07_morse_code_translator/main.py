@@ -9,6 +9,8 @@ Build one program that meets all of these requirements:
     - Translate Morse → English (the reverse lookup).
     - Handle spaces between words correctly in both directions.
 
+Stuck? See HINTS.md in this folder.
+
 Rules:
     - No AI — no Copilot / ChatGPT / autocomplete you didn't type yourself.
     - Google is fine for syntax, docs, and built-in functions.

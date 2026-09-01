@@ -9,6 +9,8 @@ Build one program that meets all of these requirements:
     - Print exactly who owes who, and how much, to settle up evenly.
     - Handle an uneven number of people or missing amounts gracefully.
 
+Stuck? See HINTS.md in this folder.
+
 Rules:
     - No AI — no Copilot / ChatGPT / autocomplete you didn't type yourself.
     - Google is fine for syntax, docs, and built-in functions.

@@ -9,6 +9,8 @@ Build one program that meets all of these requirements:
     - Build a small menu: option to check a password you type, or generate a new one.
     - Automatically mark anything under 8 characters as weak, no matter what else it contains.
 
+Stuck? See HINTS.md in this folder.
+
 Rules:
     - No AI — no Copilot / ChatGPT / autocomplete you didn't type yourself.
     - Google is fine for syntax, docs, and built-in functions.
