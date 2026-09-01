@@ -223,3 +223,16 @@ See [`learning-materials/`](learning-materials/README.md) if you get stuck on a 
 
 ---
 *34 exercises · 7 phases · no AI allowed.*
+
+
+---
+
+## 🎁 Bonus: Mini Projects
+
+10 extra, fun, self-contained builds outside the main curriculum — a password checker, Hangman,
+a typing speed test, mini Blackjack, and more. See [`mini-projects/README.md`](mini-projects/README.md).
+
+## 🧩 Bonus: Mini LeetCode (Easy DSA)
+
+12 classic easy-tier algorithm problems (Two Sum, Valid Parentheses, Binary Search, ...),
+each self-checking when you run the file. See [`mini-leetcode/README.md`](mini-leetcode/README.md).
