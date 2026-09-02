@@ -10,4 +10,11 @@ Rules:
     - Google is fine for syntax, docs, and built-in functions.
 """
 
-# TODO: write your solution below
+num = int(input("Enter a number: "))
+
+if num > 0:
+    print("The number is positive.")
+elif num == 0:
+    print("The number is zero.")
+else:
+    print("The number is negative.")

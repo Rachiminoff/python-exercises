@@ -11,3 +11,5 @@ Rules:
 """
 
 # TODO: write your solution below
+
+print("Hello\nWorld\n!")

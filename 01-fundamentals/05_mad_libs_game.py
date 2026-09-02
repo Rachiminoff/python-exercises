@@ -14,7 +14,8 @@ Rules:
 
 
 def main():
-    pass
+    noun1 = input('Enter a noun: ')
+    
 
 
 if __name__ == "__main__":

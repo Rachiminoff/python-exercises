@@ -11,3 +11,7 @@ Rules:
 """
 
 # TODO: write your solution below
+
+
+print('Hello, World!') # This simply prints "Hello, World" into the console.
+

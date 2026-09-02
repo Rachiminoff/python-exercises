@@ -11,3 +11,7 @@ Rules:
 """
 
 # TODO: write your solution below
+
+print("This is the first line.")
+print("Second follows.")
+print("And lastly, the third line.")

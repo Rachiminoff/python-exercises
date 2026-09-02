@@ -11,3 +11,7 @@ Rules:
 """
 
 # TODO: write your solution below
+
+# comment
+print("Comment don't run because a comment gets ignored by the interpreter or a compiler.")
+print("Comments are only meant for humans to read in order to understand the code better.")
