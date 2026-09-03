@@ -66,6 +66,8 @@ See [`learning-materials/`](learning-materials/README.md) if you get stuck on a 
       - [ ] **7.2** [Check whether a number is even or odd using %.](02-logic_decisions/07_if_statements/7_2.py)
       - [ ] **7.3** [Check whether a given year is a leap year.](02-logic_decisions/07_if_statements/7_3.py)
       - [ ] **7.4** [Check whether three given side lengths can form a valid triangle.](02-logic_decisions/07_if_statements/7_4.py)
+      - [ ] **7.5** [Print the winner of a rock/paper/scissors round.](02-logic_decisions/07_if_statements/7_5.py)
+      - [ ] **7.6** [Print a special message for a die roll of 1 or 6, otherwise the number.](02-logic_decisions/07_if_statements/7_6.py)
 - [ ] **#8** 🧮 [Calculator program](02-logic_decisions/08_calculator_program/main.py) **⭐ mini project**
       - [ ] Ask for two numbers and an operator (+ - * /).
       - [ ] Support all four operators correctly.
@@ -86,10 +88,14 @@ See [`learning-materials/`](learning-materials/README.md) if you get stuck on a 
       - [ ] **11.2** [Check if a number is NOT divisible by 3 using not.](02-logic_decisions/11_logical_operators/11_2.py)
       - [ ] **11.3** [Print "weekend" if the day is Saturday or Sunday using or.](02-logic_decisions/11_logical_operators/11_3.py)
       - [ ] **11.4** [Combine and/or to check for ("rainy" and "windy") or "snowing".](02-logic_decisions/11_logical_operators/11_4.py)
+      - [ ] **11.5** [Check "skip the line": ticket AND (VIP OR arrived early).](02-logic_decisions/11_logical_operators/11_5.py)
+      - [ ] **11.6** [Check "rush hour": weekday AND (morning OR evening).](02-logic_decisions/11_logical_operators/11_6.py)
 - [ ] **#12** ❓ Conditional expressions
       - [ ] **12.1** [Rewrite an if/else that prints "even"/"odd" as a one-line ternary.](02-logic_decisions/12_conditional_expressions/12_1.py)
       - [ ] **12.2** [Assign a variable status to "adult" or "minor" using a ternary expression.](02-logic_decisions/12_conditional_expressions/12_2.py)
       - [ ] **12.3** [Print "pass"/"fail" based on a score, using a ternary inside an f-string.](02-logic_decisions/12_conditional_expressions/12_3.py)
+      - [ ] **12.4** [Assign "You win!"/"You lose." for a coin flip guess, using a ternary.](02-logic_decisions/12_conditional_expressions/12_4.py)
+      - [ ] **12.5** [Rewrite the rock/paper/scissors winner (7.5) as a nested ternary.](02-logic_decisions/12_conditional_expressions/12_5.py)
 
 ### Phase 3 — Strings
 *Text manipulation - the thing you'll use constantly and never truly master*

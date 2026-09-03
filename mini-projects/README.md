@@ -25,6 +25,9 @@ built-in functions/modules to look up — no full solutions, just nudges.
 | 8 | 🎂 [Birthday Countdown](08_birthday_countdown/main.py) | How many days until cake? | [hints](08_birthday_countdown/HINTS.md) |
 | 9 | 🔥 [Habit Tracker with Streaks](09_habit_tracker_with_streaks/main.py) | Check off a habit each day and watch your streak grow. | [hints](09_habit_tracker_with_streaks/HINTS.md) |
 | 10 | 🃏 [Mini Blackjack](10_mini_blackjack/main.py) | You vs the dealer, one deck, no chips required. | [hints](10_mini_blackjack/HINTS.md) |
+| 11 | 🚪 [Escape the Room](11_escape_the_room/main.py) | If/elif/else practice — a tiny branching text adventure. | [hints](11_escape_the_room/HINTS.md) |
+| 12 | 🕵️ [Secret Agent Access Control](12_secret_agent_access/main.py) | and/or/not practice — decide who's cleared into which room. | [hints](12_secret_agent_access/HINTS.md) |
+| 13 | 🎭 [NPC Reaction Generator](13_npc_reaction_generator/main.py) | Ternary-only practice — build NPC dialogue without a single if/else block. | [hints](13_npc_reaction_generator/HINTS.md) |
 
 ## Progress
 
@@ -78,3 +81,18 @@ built-in functions/modules to look up — no full solutions, just nudges.
       - [ ] Let the player choose to hit or stand, looping until they stand or bust.
       - [ ] Implement dealer logic: dealer must hit until their hand is 17 or higher.
       - [ ] Determine and print the winner, correctly handling busts and blackjacks.
+- [ ] **11.** 🚪 [Escape the Room](11_escape_the_room/main.py) · [hints](11_escape_the_room/HINTS.md)
+      - [ ] Present a choose-your-own-adventure with at least 3 distinct choices at the first decision point.
+      - [ ] Branch on the choice with an if/elif/else chain, printing a different story beat for each.
+      - [ ] Give at least one path a second decision point with its own if/elif/else chain.
+      - [ ] Make exactly one full path end in "You escaped!" — all others end stuck.
+- [ ] **12.** 🕵️ [Secret Agent Access Control](12_secret_agent_access/main.py) · [hints](12_secret_agent_access/HINTS.md)
+      - [ ] Define at least 3 rooms, each with an access rule built from booleans.
+      - [ ] Make at least one room's rule combine and/or/not in the same expression.
+      - [ ] Ask the user yes/no questions to gather their booleans, then check them against every room.
+      - [ ] Print ACCESS GRANTED/DENIED per room, and which condition failed on a denial.
+- [ ] **13.** 🎭 [NPC Reaction Generator](13_npc_reaction_generator/main.py) · [hints](13_npc_reaction_generator/HINTS.md)
+      - [ ] Ask for has_met_before, gift_given, and the NPC's mood.
+      - [ ] Compute a greeting, a gift reaction, and a mood line using ONLY ternary expressions.
+      - [ ] Print all three lines together as one dialogue block.
+      - [ ] Let the user generate another NPC's reaction in a loop until they type 'quit'.
